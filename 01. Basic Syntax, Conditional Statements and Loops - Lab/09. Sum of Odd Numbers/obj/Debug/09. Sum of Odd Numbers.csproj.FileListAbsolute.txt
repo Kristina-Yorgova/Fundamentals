@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.exe
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.pdb
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.exe
+D:\Krisi\softuni\Fundamentals\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.pdb

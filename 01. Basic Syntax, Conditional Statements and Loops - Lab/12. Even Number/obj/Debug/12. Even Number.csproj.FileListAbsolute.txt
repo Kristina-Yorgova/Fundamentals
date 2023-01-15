@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\12. Even Number\bin\Debug\_12.Even_Number.exe
+D:\Krisi\softuni\Fundamentals\12. Even Number\bin\Debug\_12.Even_Number.pdb
+D:\Krisi\softuni\Fundamentals\12. Even Number\obj\Debug\12. Even Number.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\12. Even Number\obj\Debug\12. Even Number.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\12. Even Number\obj\Debug\_12.Even_Number.exe
+D:\Krisi\softuni\Fundamentals\12. Even Number\obj\Debug\_12.Even_Number.pdb

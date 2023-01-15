@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\bin\Debug\_06.Foreign_Languages.exe
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\bin\Debug\_06.Foreign_Languages.pdb
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\obj\Debug\06. Foreign Languages.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\obj\Debug\06. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\obj\Debug\_06.Foreign_Languages.exe
+D:\Krisi\softuni\Fundamentals\06. Foreign Languages\obj\Debug\_06.Foreign_Languages.pdb

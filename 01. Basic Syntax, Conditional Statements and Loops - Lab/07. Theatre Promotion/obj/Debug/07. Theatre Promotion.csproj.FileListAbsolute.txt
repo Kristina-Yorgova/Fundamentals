@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\bin\Debug\_07.Theatre_Promotion.exe
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\bin\Debug\_07.Theatre_Promotion.pdb
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\obj\Debug\07. Theatre Promotion.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\obj\Debug\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\obj\Debug\_07.Theatre_Promotion.exe
+D:\Krisi\softuni\Fundamentals\07. Theatre Promotion\obj\Debug\_07.Theatre_Promotion.pdb

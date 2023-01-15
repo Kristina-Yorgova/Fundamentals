@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\bin\Debug\_10.Rage_Expenses.exe
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\bin\Debug\_10.Rage_Expenses.pdb
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\obj\Debug\10. Rage Expenses.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\obj\Debug\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\obj\Debug\_10.Rage_Expenses.exe
+D:\Krisi\softuni\Fundamentals\10. Rage Expenses\obj\Debug\_10.Rage_Expenses.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\bin\Debug\_10.Multiplication_Table.exe
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\bin\Debug\_10.Multiplication_Table.pdb
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\obj\Debug\10. Multiplication Table.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\obj\Debug\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\obj\Debug\_10.Multiplication_Table.exe
+D:\Krisi\softuni\Fundamentals\10. Multiplication Table\obj\Debug\_10.Multiplication_Table.pdb

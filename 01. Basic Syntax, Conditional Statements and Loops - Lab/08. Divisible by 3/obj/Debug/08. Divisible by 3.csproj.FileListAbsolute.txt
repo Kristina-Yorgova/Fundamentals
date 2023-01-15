@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\bin\Debug\_08.Divisible_by_3.exe
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\bin\Debug\_08.Divisible_by_3.pdb
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\obj\Debug\08. Divisible by 3.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\obj\Debug\08. Divisible by 3.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\obj\Debug\_08.Divisible_by_3.exe
+D:\Krisi\softuni\Fundamentals\08. Divisible by 3\obj\Debug\_08.Divisible_by_3.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.exe
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.pdb
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.exe
+D:\Krisi\softuni\Fundamentals\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.pdb

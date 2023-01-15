@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.exe
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.pdb
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.exe
+D:\Krisi\softuni\Fundamentals\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.pdb

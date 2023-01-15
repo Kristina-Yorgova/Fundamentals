@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\01. Ages\bin\Debug\_01.Ages.exe
+D:\Krisi\softuni\Fundamentals\01. Ages\bin\Debug\_01.Ages.pdb
+D:\Krisi\softuni\Fundamentals\01. Ages\obj\Debug\01. Ages.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\01. Ages\obj\Debug\01. Ages.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\01. Ages\obj\Debug\_01.Ages.exe
+D:\Krisi\softuni\Fundamentals\01. Ages\obj\Debug\_01.Ages.pdb

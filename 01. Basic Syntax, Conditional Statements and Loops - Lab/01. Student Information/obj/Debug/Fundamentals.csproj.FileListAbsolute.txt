@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe
+D:\Krisi\softuni\Fundamentals\Fundamentals\bin\Debug\Fundamentals.pdb
+D:\Krisi\softuni\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\Fundamentals\obj\Debug\Fundamentals.exe
+D:\Krisi\softuni\Fundamentals\Fundamentals\obj\Debug\Fundamentals.pdb

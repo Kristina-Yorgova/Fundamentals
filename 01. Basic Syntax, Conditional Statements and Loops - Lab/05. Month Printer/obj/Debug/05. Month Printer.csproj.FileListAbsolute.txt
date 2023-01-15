@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\05. Month Printer\bin\Debug\_05.Month_Printer.exe
+D:\Krisi\softuni\Fundamentals\05. Month Printer\bin\Debug\_05.Month_Printer.pdb
+D:\Krisi\softuni\Fundamentals\05. Month Printer\obj\Debug\05. Month Printer.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\05. Month Printer\obj\Debug\05. Month Printer.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\05. Month Printer\obj\Debug\_05.Month_Printer.exe
+D:\Krisi\softuni\Fundamentals\05. Month Printer\obj\Debug\_05.Month_Printer.pdb

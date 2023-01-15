@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\bin\Debug\_9.Padawan_Equipment.exe
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\bin\Debug\_9.Padawan_Equipment.pdb
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\obj\Debug\9. Padawan Equipment.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\obj\Debug\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\obj\Debug\_9.Padawan_Equipment.exe
+D:\Krisi\softuni\Fundamentals\9. Padawan Equipment\obj\Debug\_9.Padawan_Equipment.pdb
