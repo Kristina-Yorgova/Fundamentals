@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\bin\Debug\_02.Sum_Digits.exe
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\bin\Debug\_02.Sum_Digits.pdb
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\obj\Debug\_02.Sum_Digits.exe
+D:\Krisi\softuni\Fundamentals\02. Sum Digits\obj\Debug\_02.Sum_Digits.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\bin\Debug\_08.Beer_Kegs.exe
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\bin\Debug\_08.Beer_Kegs.pdb
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\obj\Debug\08. Beer Kegs.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\obj\Debug\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\obj\Debug\_08.Beer_Kegs.exe
+D:\Krisi\softuni\Fundamentals\08. Beer Kegs\obj\Debug\_08.Beer_Kegs.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\bin\Debug\_10.Lower_or_Upper.exe
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\bin\Debug\_10.Lower_or_Upper.pdb
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\obj\Debug\10. Lower or Upper.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\obj\Debug\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\obj\Debug\_10.Lower_or_Upper.exe
+D:\Krisi\softuni\Fundamentals\10. Lower or Upper\obj\Debug\_10.Lower_or_Upper.pdb

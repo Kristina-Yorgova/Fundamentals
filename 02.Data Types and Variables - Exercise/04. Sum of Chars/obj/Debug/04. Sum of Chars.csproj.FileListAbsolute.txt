@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\bin\Debug\_04.Sum_of_Chars.exe
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\bin\Debug\_04.Sum_of_Chars.pdb
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\obj\Debug\04. Sum of Chars.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\obj\Debug\04. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\obj\Debug\_04.Sum_of_Chars.exe
+D:\Krisi\softuni\Fundamentals\04. Sum of Chars\obj\Debug\_04.Sum_of_Chars.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\bin\Debug\_12.Refactor_Special_Numbers.exe
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\bin\Debug\_12.Refactor_Special_Numbers.pdb
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\obj\Debug\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\obj\Debug\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\obj\Debug\_12.Refactor_Special_Numbers.exe
+D:\Krisi\softuni\Fundamentals\12. Refactor Special Numbers\obj\Debug\_12.Refactor_Special_Numbers.pdb

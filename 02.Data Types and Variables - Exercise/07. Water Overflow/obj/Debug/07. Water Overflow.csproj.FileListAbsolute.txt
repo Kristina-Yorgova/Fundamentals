@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\bin\Debug\_07.Water_Overflow.exe
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\bin\Debug\_07.Water_Overflow.pdb
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\obj\Debug\07. Water Overflow.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\obj\Debug\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\obj\Debug\_07.Water_Overflow.exe
+D:\Krisi\softuni\Fundamentals\07. Water Overflow\obj\Debug\_07.Water_Overflow.pdb

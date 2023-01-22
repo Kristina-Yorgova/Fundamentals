@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\03. Elevator\bin\Debug\_03.Elevator.exe
+D:\Krisi\softuni\Fundamentals\03. Elevator\bin\Debug\_03.Elevator.pdb
+D:\Krisi\softuni\Fundamentals\03. Elevator\obj\Debug\03. Elevator.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\03. Elevator\obj\Debug\03. Elevator.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\03. Elevator\obj\Debug\_03.Elevator.exe
+D:\Krisi\softuni\Fundamentals\03. Elevator\obj\Debug\_03.Elevator.pdb

@@ -1,0 +1,6 @@
+D:\Krisi\softuni\Fundamentals\10. PokeMon\bin\Debug\_10.PokeMon.exe
+D:\Krisi\softuni\Fundamentals\10. PokeMon\bin\Debug\_10.PokeMon.pdb
+D:\Krisi\softuni\Fundamentals\10. PokeMon\obj\Debug\10. PokeMon.csproj.AssemblyReference.cache
+D:\Krisi\softuni\Fundamentals\10. PokeMon\obj\Debug\10. PokeMon.csproj.CoreCompileInputs.cache
+D:\Krisi\softuni\Fundamentals\10. PokeMon\obj\Debug\_10.PokeMon.exe
+D:\Krisi\softuni\Fundamentals\10. PokeMon\obj\Debug\_10.PokeMon.pdb
